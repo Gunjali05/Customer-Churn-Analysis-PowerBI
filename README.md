@@ -49,7 +49,7 @@ The dashboard can be used to analyze:
 
 ## 📷 Dashboard Preview
 
-![Customer Churn Dashboard](dashboard.png)
+![Customer Churn Dashboard](Dashboard.png)
 
 ## 📁 Project Files
 
